@@ -15,8 +15,8 @@
   <img align="center" alt="Dhabanaov-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Dhabanaov-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dhabanaov-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Dhabanaov-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
- <img align="center" alt="Dhabanaov-orocle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/orocle/orocle-original.svg">
+ <img align="center" alt="Dhabanaov-de" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+ <img align="right" alt="Rafa-yoda" src="https://picrew.me/image_maker/338224">
 </div>
  
    
