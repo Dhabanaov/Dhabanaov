@@ -16,7 +16,7 @@
   <img align="center" alt="Dhabanaov-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dhabanaov-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Dhabanaov-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
- <img align="center" alt="Dhabanaov-Sqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Sqlserver/Sqlserver-original.svg">
+ <img align="center" alt="Dhabanaov-orocle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/orocle/orocle-original.svg">
 </div>
  
    
